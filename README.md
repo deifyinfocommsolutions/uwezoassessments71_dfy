@@ -1,2 +1,1 @@
-# uwezoassessments71_dfy
-Uwezo Assessments Portal for iBeads
+Uwezo learning Solution Assessments and Portal for ibeads
